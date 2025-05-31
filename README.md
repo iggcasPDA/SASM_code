@@ -1,6 +1,4 @@
-您说得对，输出为.md文件确实更专业。以下是按照Nature杂志标准修改的README.md文件：
 
-```markdown
 # South Asian Summer Monsoon Index Reconstruction (1850-2010)
 
 ## Abstract
@@ -115,7 +113,7 @@ All source code is provided under the MIT License.
 
 ## Corresponding Author
 
-[Your name and institutional email address]
+[Yuanyuan Yang, Yang.yyuan@outlook.com and Feng Shi, shifeng@mail.iggcas.ac.cn]
 
 ## Supplementary Information
 
