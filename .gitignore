@@ -1,0 +1,13 @@
+# MATLAB temporary files
+*.asv
+*.m~
+
+# Generated folders
+step1/
+step2/
+step3/
+valid/
+output/
+
+# OS files
+.DS_Store
